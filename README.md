@@ -28,7 +28,7 @@ With You is an Arduino-based wearable system designed to improve personal safety
 - Safety alert triggers buzzer and sends location data in real-time  
 - Sliding window logic and timing calculations ensure consistent updates  
 
-## Network Analysis (Optional Technical Section)
+## Network Analysis 
 - ALOHA protocol used to handle multiple transmitters  
 - Packet size: 400 bits; Transmission rate: 125 kbps; Packet duration: 3.2 ms  
 - Traffic calculations ensure the network can handle 100 users with minimal collisions  
