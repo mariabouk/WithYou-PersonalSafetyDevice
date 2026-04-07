@@ -1,4 +1,5 @@
 # With You – Personal Safety and Activity Monitoring Device
+This project was developed for the course “Applications of Telecommunication Devices” at the Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki, in 2021.
 
 ## Description
 With You is an Arduino-based wearable system designed to improve personal safety and track daily activity. The device monitors heart rate (BPM) and distance traveled, provides notifications for reaching daily goals, and includes a safety alert system for potential danger.
