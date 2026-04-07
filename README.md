@@ -35,8 +35,8 @@ With You is an Arduino-based wearable system designed to improve personal safety
 - Coverage analysis ensures 95% probability of successful reception  
 
 ## Usage
-1. Upload the transmitter `.ino` sketch to the wearable Arduino unit  
-2. Upload the receiver `.ino` sketch to the base station Arduino  
+1. Upload the transmitter `Aloha_Tx.ino`, `Aloha_Tx_2.ino`  sketch to the wearable Arduino unit  
+2. Upload the receiver `Aloha_Rx.ino` sketch to the base station Arduino  
 3. Power the devices and monitor heart rate, distance, and safety alerts in real time  
 4. Press the alert button on the transmitter to simulate danger  
 
